@@ -1,0 +1,63 @@
+{
+  "name": "Jacqueline Mattisen Candido",
+  "photo": "https://avatars.githubusercontent.com/u/145669997?v=4",
+  "profession": "Frontend Developer",
+  "location": "Alemanha",
+  "phone": "(+49) 17630374700",
+  "email": "jjm_jac@yahoo.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (técnico)", "Alemão (intermediário)"],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex",
+      "url": "https://github.com/JacMattisen/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página de portfolio para fotógrafos - Em construção",
+      "url": "https://github.com/JacMattisen/portfolio-website-fotograf",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Transição de Carreira",
+      "period": "",
+      "description": "Atualmente estou em transição de carreira, buscando oportunidades na área de desenvolvimento frontend."
+    }
+  ]
+}

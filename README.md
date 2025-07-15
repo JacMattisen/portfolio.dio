@@ -36,4 +36,4 @@ Além disso, o site foi publicado com **GitHub Pages**:
 
 ---
 
-Essas tecnologias são a base do desenvolvimento web moderno e fazem parte do aprendizado no **Bootcamp Front-End da DIO** e nos cursos complementares da Jacqueline Mattisen.
+Essas tecnologias são a base do desenvolvimento web moderno e fazem parte do aprendizado no **Bootcamp Front-End da DIO** e nos cursos complementares.
